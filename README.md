@@ -1,10 +1,11 @@
 #### 👋 Hi There
- 🙋‍♀️ I am Bhagyasree 
- 🎓 Studying B.Tech at VIIT'28 
- 💻 Interested in Programming 
- 🧑‍💻 Design Frontend Applications
+
+🙋‍♀️ I am Bhagyasree 
+🎓 Studying B.Tech at VIIT'28 
+💻 Interested in Programming 
+🧑‍💻 Design Frontend Applications
 🔍 Learning Full Stack Development
- 🌐 Exploring Technologies
+🌐 Exploring Technologies
 <!--
 **KalluriBhagyasree/KalluriBhagyasree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
